@@ -22,9 +22,7 @@
 
 <p align="center" style="margin-top: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <a href="https://github.com/deneth-kavishka" style="text-decoration: none;">
-    <span style="background: linear-gradient(90deg, #00c853, #1de9b6); color: #fff; padding: 10px 25px; border-radius: 30px; font-weight: 600; box-shadow: 0 4px 15px rgba(0, 200, 83, 0.6); display: inline-block; font-size: 18px;">
-      👁️ Profile Views: <strong><img src="https://komarev.com/ghpvc/?username=deneth-kavishka&color=00c853" alt="Profile Views" style="vertical-align: middle; height: 24px;"/></strong>
-    </span>
+  <img src="https://komarev.com/ghpvc/?username=deneth-kavishka&label=Profile%20Views&color=0e75b6&style=flat" alt="Deneth-Kavishka" />
   </a>
 </p>
 
