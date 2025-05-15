@@ -2,9 +2,9 @@
 <div align="center" style="background: linear-gradient(to right, #0e75b6, #2a9df4); padding: 30px; border-radius: 15px;">
   <h1 align="center" style="color: white;">
     <span align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=735&lines=👋Hey!+I'm+Deneth+Kavishka" alt="👋Hey! I'm Deneth Kavishka">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&pause=750&color=FFFFFF&center=true&vCenter=true&width=735&lines=👋Hey!+I'm+Deneth+Kavishka" alt="👋Hey! I'm Deneth Kavishka">
       <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=COLLABORATING+TO+CREATE+WHAT+MATTERS..." alt="COLLABORATING TO CREATE WHAT MATTERS..." />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=5000&pause=750&color=00FFFF&center=true&vCenter=true&width=800&lines=COLLABORATING+TO+CREATE+WHAT+MATTERS..." alt="COLLABORATING TO CREATE WHAT MATTERS..." />
       </p>
     </span>
   </h1>
@@ -22,7 +22,7 @@
 
 <p align="center" style="margin-top: 15px;">
   <a href="https://github.com/deneth-kavishka">
-    <img src="https://komarev.com/ghpvc/?username=deneth-kavishka&label=Profile%20Views&color=11f1e7&style=flat" alt="Deneth-Kavishka" />
+    <img src="https://komarev.com/ghpvc/?username=deneth-kavishka&label=Profile%20Views&color=0e75b6&style=flat" alt="Deneth-Kavishka" />
   </a><br/>
 </p>
   <!--strong><a href="https://github.com/deneth-kavishka">Deneth-Kavishka</a></strong-->
