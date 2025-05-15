@@ -43,12 +43,12 @@
 ### 🌐 Connect with Me:
 <p align="left">
 
- 
+ <code>
     <a href="https://www.linkedin.com/in/deneth-kavishka-338288284/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/linkedin.svg" /> LinkedIn</a>
   </code>
-
+<code>
     <a href="https://x.com/Deneth_kavish" title="Twitter Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitter.svg" /> Twitter</a>
-
+</code>
  
 
 <!--<a href="https://www.linkedin.com/in/deneth-kavishka-338288284/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a> 
@@ -89,11 +89,11 @@
 - 💻 Skilled in full-stack development, focusing on modern web, mobile app and desktop applications.
 - 🚀 Passionate about creating optimized and user-friendly mobile app & software.
 - 🧠 I'm always excited to talk about:
-                                        - 🌐 Web Development — HTML, CSS, JavaScript, React, Spring Boot  
-                                        - 📱 Mobile App Development — Flutter, Android Studio  
-                                        - 🔧 Backend APIs — Java, Node.js, PHP, Oracle, MySQL  
-                                        - 🤖 IoT & Robotics — Arduino, Sensors, Servo Control  
-                                        - 🧩 Software Design — Clean Architecture, OOP, Full Stack Patterns  
+  - 🌐 Web Development — HTML, CSS, JavaScript, React, Spring Boot  
+  - 📱 Mobile App Development — Flutter, Android Studio  
+  - 🔧 Backend APIs — Java, Node.js, PHP, Oracle, MySQL  
+  - 🤖 IoT & Robotics — Arduino, Sensors, Servo Control  
+  - 🧩 Software Design — Clean Architecture, OOP, Full Stack Patterns  
 
 
 <!--
