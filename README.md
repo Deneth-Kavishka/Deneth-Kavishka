@@ -49,16 +49,10 @@
 
 ### 🛠️ Languages and Tools:
 <p align="center">
-  <!-- First skill set -->
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,cs,c,dotnet,html,css,javascript,bootstrap,tailwind,react,typescript,express,java" alt="Skills1" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,cs,c,dotnet,html,css,javascript,bootstrap,tailwind,react,typescript,express,java,python,laravel,arduino,mysql,mongodb,postgres" alt="Skills" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
   
-  <!-- Spring Boot icon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
   
-  <!-- Second skill set -->
-  <img src="https://skillicons.dev/icons?i=python,laravel,arduino,mysql,mongodb,postgres" alt="Skills2" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
-  
-  <!-- Oracle DB icon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle DB" width="30" height="30" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
 </p>
 
