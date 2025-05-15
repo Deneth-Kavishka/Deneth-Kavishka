@@ -22,8 +22,8 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deneth-kavishka&theme=tokyonight" alt="GitHub streak stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
-  <img src="https://github-readme-stats.vercel.app/api?username=deneth-kavishka&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deneth-kavishka&theme=dracula" alt="GitHub streak stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deneth-kavishka&show_icons=true&locale=en&theme=dracula" alt="GitHub stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deneth-kavishka&layout=compact&theme=radical" alt="Most Used Languages" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
 </p>
 
@@ -43,7 +43,9 @@
 ### 🛠️ Languages and Tools:
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,cs,c,dotnet,html,css,javascript,bootstrap,tailwind,react,typescript,express,java,python,springboot,laravel,arduino,mysql,mongodb,oracle,postgres" alt="Skills" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,cs,c,dotnet,html,css,javascript,bootstrap,tailwind,react,typescript,express,java,python,laravel,arduino,mysql,mongodb,postgres" alt="Skills" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Oracle-DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB" />
 </p>
 
 ---
