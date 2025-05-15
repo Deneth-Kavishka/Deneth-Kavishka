@@ -4,28 +4,29 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,30&height=180&section=header&text=Deneth%20Kavishka&fontSize=42&fontColor=fff&animation=fadeIn" width="100%" alt="Header"/>
   </div>
   <!-- Typing animation for name -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=735&lines=👋Hey!+I'm+Deneth+Kavishka" alt="👋Hey! I'm Deneth Kavishka"/>
-  </a>
-  <!-- Typing animation for tagline -->
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=COLLABORATING+TO+CREATE+WHAT+MATTERS..." alt="COLLABORATING TO CREATE WHAT MATTERS..."/>
-    </a>
-  </p>
-  <!-- Hacker with hoodie animation -->
-  <div align="center" style="margin: 20px 0;">
-    <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Hacker Animation"/>
-  </div>
-  <!-- Alternative hacker animations (choose one) -->
+<div align="center" style="background: linear-gradient(to right, 
+#0e75b6, 
+#2a9df4); padding: 30px; border-radius: 15px;">
+  <h1 align="center" style="color: white;">
+    <span align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=735&lines=👋Hey!+I'm+Deneth+Kavishka" alt="👋Hey! I'm Deneth Kavishka">
+      <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=COLLABORATING+TO+CREATE+WHAT+MATTERS..." alt="COLLABORATING TO           CREATE WHAT MATTERS..." />
+      </p>
+    </span>
+  </h1>
 
-  <img src="https://media.giphy.com/media/l3vRmVv5P01I5NDAA/giphy.gif" width="300" alt="Hacker Animation"/>
-  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="300" alt="Hacker Animation"/>
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="300" alt="Hacker Animation"/>
-  <img src="https://media.giphy.com/media/LcfBYS8BKhCvK/giphy.gif" width="300" alt="Hacker Animation"/>
- 
-  <h3 align="center">A passionate coding enthusiast, always eager to research, find, learn and develop across the full stack.</h3>
+  <!-- Hacker with Hoodie Animation -->
+  <div style="margin: 20px 0;">
+    <iframe src="https://lottie.host/?file=4e870ed4-70ee-4022-8e6f-37a28759ae16" 
+            style="width: 300px; height: 300px; border: none; background: transparent;" 
+            allowfullscreen>
+    </iframe>
+  </div>
+
+  <h3 style="color: Grey;">A passionate coding enthusiast, always eager to research, find, learn and develop across the full stack.</h3>
 </div>
+
 
 
 <p align="center" style="margin-top: 15px;">
