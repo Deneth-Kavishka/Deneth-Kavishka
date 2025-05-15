@@ -1,10 +1,7 @@
 <div align="center">
-  <!-- Matrix-style Binary Rain Hacker Header -->
-  <iframe src="https://lottie.host/embed/4b3a63a6-73fd-4790-8840-d519d4901e67/TvU9xzOPnF.json"
-          style="width: 100%; height: 200px; border: none; background: black;" 
-          allowfullscreen>
-  </iframe>
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100%" height="180px" alt="Binary Rain Hacking Vibe"/>
 </div>
+
 
 
   <!-- Typing animation for name -->
