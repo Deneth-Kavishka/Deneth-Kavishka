@@ -22,7 +22,7 @@
 
 <p align="center" style="margin-top: 15px;">
   <a href="https://github.com/deneth-kavishka">
-    <img src="https://komarev.com/ghpvc/?username=deneth-kavishka&label=Profile%20Views&color=#000000&style=flat" alt="Deneth-Kavishka" />
+    <img src="https://komarev.com/ghpvc/?username=deneth-kavishka&label=Profile%20Views&color=000000&style=flat" alt="Deneth-Kavishka" />
   </a><br/>
 </p>
   <!--strong><a href="https://github.com/deneth-kavishka">Deneth-Kavishka</a></strong-->
@@ -42,14 +42,14 @@
 
 ### 🌐 Connect with Me:
 <p align="left">
-<h5 align="center">
-  <code>
+
+ 
     <a href="https://www.linkedin.com/in/deneth-kavishka-338288284/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/linkedin.svg" /> LinkedIn</a>
   </code>
-  <code>
+
     <a href="https://x.com/Deneth_kavish" title="Twitter Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitter.svg" /> Twitter</a>
-  </code>
-  <h5/>
+
+ 
 
 <!--<a href="https://www.linkedin.com/in/deneth-kavishka-338288284/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a> 
 <a href="https://x.com/Deneth_kavish" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>
