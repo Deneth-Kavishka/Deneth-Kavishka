@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://i.ibb.co/q9VdK6p/matrix-header.gif" width="100%" alt="Binary Rain Header" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=👨‍💻+Deneth+Kavishka+-+Code+In+The+Dark..." alt="Typing SVG" />
+  <!-- Matrix-style Binary Rain Hacker Header -->
+  <iframe src="https://lottie.host/embed/4b3a63a6-73fd-4790-8840-d519d4901e67/TvU9xzOPnF.json"
+          style="width: 100%; height: 200px; border: none; background: black;" 
+          allowfullscreen>
+  </iframe>
 </div>
 
 
