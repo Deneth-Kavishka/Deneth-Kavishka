@@ -3,14 +3,14 @@
     <span align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=735&lines=👋Hey!+I'm+Deneth+Kavishka" alt="👋Hey! I'm Deneth Kavishka">
       <p align="center">
-          <!-- Hacker Animation -->
-  <div style="margin: 20px 0;">
-    <iframe src="https://lottie.host/embed/1f31cd6a-2ab7-46f1-9e89-f6a95dd15ef9/6syy8ULjbU.json" style="width: 300px; height: 300px; border: none; background: transparent;"></iframe>
-  </div>
         <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=COLLABORATING+TO+CREATE+WHAT+MATTERS..." alt="COLLABORATING TO           CREATE WHAT MATTERS..." />
       </p>
     </span>
   </h1>
+   <!-- Hacker Animation -->
+  <div style="margin: 20px 0;">
+    <iframe src="https://lottie.host/embed/1f31cd6a-2ab7-46f1-9e89-f6a95dd15ef9/6syy8ULjbU.json" style="width: 300px; height: 300px; border: none; background: transparent;"></iframe>
+  </div>
   <h3 style="color: Grey;">A passionate coding enthusiast, always eager to research,find,learn and develop across the full stack.</h3>
 </div>
 
@@ -47,9 +47,10 @@
 ### 🛠️ Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,cs,c,dotnet,html,css,javascript,bootstrap,tailwind,react,typescript,express,java,python,laravel,arduino,mysql,mongodb,postgres" alt="Skills" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle DB" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,cs,c,dotnet,html,css,javascript,bootstrap,tailwind,react,typescript,express,java alt="Skills1 style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
+  <img src="https://skillicons.dev/icons?i=python,laravel,arduino,mysql,mongodb,postgres" alt="Skills2" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle DB" width="30" height="30" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);"/>
 </p>
 
 ---
