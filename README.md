@@ -1,24 +1,22 @@
 <div align="center">
-  <!-- Background gradient header -->
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,30&height=180&section=header&text=Deneth%20Kavishka&fontSize=42&fontColor=fff&animation=fadeIn" width="100%" alt="Header"/>
-  </div>
+  <!-- Binary Rain Header with Hacker Vibe -->
+  <img src="https://i.ibb.co/q9VdK6p/matrix-header.gif" width="100%" alt="Binary Rain Header" />
+</div>
+
   <!-- Typing animation for name -->
-<div align="center" style="background: linear-gradient(to right, 
-#0e75b6, 
-#2a9df4); padding: 30px; border-radius: 15px;">
+<div align="center" style="background: linear-gradient(to right, #0e75b6, #2a9df4); padding: 30px; border-radius: 15px;">
   <h1 align="center" style="color: white;">
     <span align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=735&lines=👋Hey!+I'm+Deneth+Kavishka" alt="👋Hey! I'm Deneth Kavishka">
       <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=COLLABORATING+TO+CREATE+WHAT+MATTERS..." alt="COLLABORATING TO           CREATE WHAT MATTERS..." />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=COLLABORATING+TO+CREATE+WHAT+MATTERS..." alt="COLLABORATING TO CREATE WHAT MATTERS..." />
       </p>
     </span>
   </h1>
 
-  <!-- Hacker with Hoodie Animation -->
+  <!-- Hacker Animation with Hoodie from LottieFiles -->
   <div style="margin: 20px 0;">
-    <iframe src="https://lottie.host/?file=4e870ed4-70ee-4022-8e6f-37a28759ae16" 
+    <iframe src="https://lottie.host/embed/8cc98a92-7b95-4ebc-8899-62197400555d/1VJjE0kKYt.json" 
             style="width: 300px; height: 300px; border: none; background: transparent;" 
             allowfullscreen>
     </iframe>
@@ -26,6 +24,7 @@
 
   <h3 style="color: Grey;">A passionate coding enthusiast, always eager to research, find, learn and develop across the full stack.</h3>
 </div>
+
 
 
 
