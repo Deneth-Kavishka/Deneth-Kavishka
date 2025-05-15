@@ -1,58 +1,4 @@
-<canvas id="matrixCanvas" style="display:block; position:absolute; z-index:-1;"></canvas>
-<script>
-  var c = document.getElementById("matrixCanvas");
-  var ctx = c.getContext("2d");
-
-  // Making the canvas full screen
-  c.height = window.innerHeight;
-  c.width = window.innerWidth;
-
-  // Characters - taken from the original Matrix movie
-  var matrix = "ABCDEFGHIJKLMNOPQRSTUVWXYZ123456789@#$%^&*()*&^%";
-  // Converting the string into an array of single characters
-  matrix = matrix.split("");
-
-  var font_size = 10;
-  var columns = c.width / font_size; // Number of columns for the rain
-  // An array of drops - one per column
-  var drops = [];
-  // X below is the x coordinate
-  // 1 = y-coordinate of the drop(same for every drop initially)
-  for (var x = 0; x < columns; x++)
-    drops[x] = 1;
-
-  // Drawing the characters
-  function draw() {
-    // Black BG for the canvas
-    // Translucent BG to show trail
-    ctx.fillStyle = "rgba(0, 0, 0, 0.04)";
-    ctx.fillRect(0, 0, c.width, c.height);
-
-    ctx.fillStyle = "#0F0"; // Green text
-    ctx.font = font_size + "px arial";
-    // Looping over drops
-    for (var i = 0; i < drops.length; i++) {
-      // A random character
-      var text = matrix[Math.floor(Math.random() * matrix.length)];
-      // x = i*font_size, y = value of drops[i]*font_size
-      ctx.fillText(text, i * font_size, drops[i] * font_size);
-
-      // Sending the drop back to the top randomly after it has crossed the screen
-      // Adding a randomness to the reset to make the drops scattered on the Y axis
-      if (drops[i] * font_size > c.height && Math.random() > 0.975)
-        drops[i] = 0;
-
-      // Incrementing Y coordinate
-      drops[i]++;
-    }
-  }
-
-  setInterval(draw, 35);
-</script>
-
-
-
-  <!-- Typing animation for name -->
+<!-- Typing animation for name -->
 <div align="center" style="background: linear-gradient(to right, #0e75b6, #2a9df4); padding: 30px; border-radius: 15px;">
   <h1 align="center" style="color: white;">
     <span align="center">
@@ -63,13 +9,13 @@
     </span>
   </h1>
 
-  <!-- Hacker Animation with Hoodie from LottieFiles -->
+  <!-- Hacker Animation with Hoodie from LottieFiles 
   <div style="margin: 20px 0;">
     <iframe src="https://lottie.host/embed/8cc98a92-7b95-4ebc-8899-62197400555d/1VJjE0kKYt.json" 
             style="width: 300px; height: 300px; border: none; background: transparent;" 
             allowfullscreen>
     </iframe>
-  </div>
+  </div>-->
 
   <h3 style="color: Grey;">A passionate coding enthusiast, always eager to research, find, learn and develop across the full stack.</h3>
 </div>
@@ -98,15 +44,19 @@
 
 ### 🌐 Connect with Me:
 <p align="left">
-<a href="https://www.linkedin.com/in/deneth-kavishka-338288284/" target="_blank">
+
+<a href="https://www.linkedin.com/in/deneth-kavishka-338288284/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a> 
+<a href="https://x.com/Deneth_kavish" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>
+
+<!--<a  target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="28" height="28" style="border-radius: 15px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
 </a> 
 <a href="https://x.com/Deneth_Kavish" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="28" height="28" style="border-radius: 15px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
-</a>
+</a>-->
 
 </p>
-  <!--<a href="https://youtube.com/@virajwathsalag" target="_blank">
+  <!--<a href="https://youtube.com/@techverse" target="_blank">
     <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" style="border-radius: 10px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" /> -->
   </a>
 </p>
@@ -132,6 +82,7 @@
 - 👯 I’m looking to collaborate on web projects.
 - 💻 Skilled in full-stack development, focusing on modern web, mobile app and desktop applications.
 - 🚀 Passionate about creating optimized and user-friendly mobile app & software.
+- 💬 Ask me about ...
 
 
 <!--
