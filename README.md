@@ -7,10 +7,13 @@
       </p>
     </span>
   </h1>
-   <!-- Hacker Animation -->
-  <div style="margin: 20px 0;">
-    <iframe src="https://lottie.host/embed/1f31cd6a-2ab7-46f1-9e89-f6a95dd15ef9/6syy8ULjbU.json" style="width: 300px; height: 300px; border: none; background: transparent;"></iframe>
-  </div>
+ <!-- Hacker Animation from LottieFiles (working iframe embed) -->
+<div style="margin: 20px 0;">
+<iframe src="https://lottie.host/?file=40a2b4a1-d2f7-4b80-a1a5-f5b7c4d70b92" 
+        style="width: 300px; height: 300px; border: none; background: transparent;" 
+        allowfullscreen></iframe>
+</div>
+
   <h3 style="color: Grey;">A passionate coding enthusiast, always eager to research,find,learn and develop across the full stack.</h3>
 </div>
 
@@ -45,13 +48,20 @@
 ---
 
 ### 🛠️ Languages and Tools:
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,cs,c,dotnet,html,css,javascript,bootstrap,tailwind,react,typescript,express,java alt="Skills1 style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
-  <img src="https://skillicons.dev/icons?i=python,laravel,arduino,mysql,mongodb,postgres" alt="Skills2" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle DB" width="30" height="30" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);"/>
+  <!-- First skill set -->
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,cs,c,dotnet,html,css,javascript,bootstrap,tailwind,react,typescript,express,java" alt="Skills1" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
+  
+  <!-- Spring Boot icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
+  
+  <!-- Second skill set -->
+  <img src="https://skillicons.dev/icons?i=python,laravel,arduino,mysql,mongodb,postgres" alt="Skills2" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
+  
+  <!-- Oracle DB icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle DB" width="30" height="30" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
 </p>
+
 
 ---
 
