@@ -82,20 +82,12 @@
 - 👯 I’m looking to collaborate on web projects.
 - 💻 Skilled in full-stack development, focusing on modern web, mobile app and desktop applications.
 - 🚀 Passionate about creating optimized and user-friendly mobile app & software.
-<div align="center" style="background: #0d1117; padding: 20px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,255,0,0.2); margin-top: 30px;">
-  <h2 style="color: #39ff14;">💬 Ask Me About</h2>
-  <p style="color: #cccccc; font-size: 16px;">
-    🧠 I'm always excited to share knowledge about:
-  </p>
-  <ul style="list-style-type: none; padding: 0; color: #cccccc; font-size: 15px;">
-    <li>🌐 Web Development — <strong>HTML, CSS, JS, React, Spring Boot</strong></li>
-    <li>📱 Mobile Apps — <strong>Flutter, Android Studio</strong></li>
-    <li>🔧 Backend APIs — <strong>Java, Node.js, PHP, Oracle, MySQL</strong></li>
-    <li>🤖 IoT & Robotics — <strong>Arduino, Sensors, Servos</strong></li>
-    <li>🧩 Software Design — <strong>Clean Architecture, OOP</strong></li>
-  </ul>
-</div>
-
+- 🧠 I'm always excited to talk about:
+                                        - 🌐 Web Development — HTML, CSS, JavaScript, React, Spring Boot  
+                                        - 📱 Mobile App Development — Flutter, Android Studio  
+                                        - 🔧 Backend APIs — Java, Node.js, PHP, Oracle, MySQL  
+                                        - 🤖 IoT & Robotics — Arduino, Sensors, Servo Control  
+                                        - 🧩 Software Design — Clean Architecture, OOP, Full Stack Patterns  
 
 
 <!--
