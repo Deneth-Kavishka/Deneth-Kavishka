@@ -1,7 +1,8 @@
 <div align="center">
-  <!-- Binary Rain Header with Hacker Vibe -->
   <img src="https://i.ibb.co/q9VdK6p/matrix-header.gif" width="100%" alt="Binary Rain Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=👨‍💻+Deneth+Kavishka+-+Code+In+The+Dark..." alt="Typing SVG" />
 </div>
+
 
   <!-- Typing animation for name -->
 <div align="center" style="background: linear-gradient(to right, #0e75b6, #2a9df4); padding: 30px; border-radius: 15px;">
