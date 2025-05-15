@@ -22,16 +22,17 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deneth-kavishka&theme=dracula" alt="GitHub streak stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deneth-kavishka&theme=tokyonight" alt="GitHub streak stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
   <img src="https://github-readme-stats.vercel.app/api?username=deneth-kavishka&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deneth-kavishka&layout=compact&theme=onedark" alt="Most Used Languages" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deneth-kavishka&layout=compact&theme=gruvbox" alt="Most Used Languages" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me:
-<a href="https://www.linkedin.com/in/deneth-kavishka-338288284/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="border-radius: 10px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" /></a> <a href="https://x.com/Deneth_Kavish" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" style="border-radius: 10px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" /></a>
-
+<p align="center">
+<a href="https://www.linkedin.com/in/deneth-kavishka-338288284/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="border-radius: 15px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" /></a> <a href="https://x.com/Deneth_Kavish" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" style="border-radius: 15px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" /></a>
+</p>
   <!--<a href="https://youtube.com/@virajwathsalag" target="_blank">
     <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" style="border-radius: 10px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" /> -->
   </a>
