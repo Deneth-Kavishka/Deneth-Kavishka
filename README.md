@@ -22,9 +22,10 @@
 
 <p align="center" style="margin-top: 15px;">
   <a href="https://github.com/deneth-kavishka">
-    <img src="https://komarev.com/ghpvc/?username=deneth-kavishka&label=Profile%20Views&color=0e75b6&style=flat" alt="Deneth-Kavishka" />
-  </a><br/>
+    <img src="https://komarev.com/ghpvc/?username=deneth-kavishka&label=PROFILE%20VIEWS&color=32CD32&style=for-the-badge" alt="Deneth-Kavishka" />
+  </a>
 </p>
+
   <!--strong><a href="https://github.com/deneth-kavishka">Deneth-Kavishka</a></strong-->
 </p>
 
