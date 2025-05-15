@@ -45,8 +45,8 @@
 ### 🌐 Connect with Me:
 <p align="left">
 
-<a href="https://www.linkedin.com/in/deneth-kavishka-338288284/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a> 
-<a href="https://x.com/Deneth_kavish" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/deneth-kavishka-338288284/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a> 
+<a href="https://x.com/Deneth_kavish" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>
 
 <!--<a  target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="28" height="28" style="border-radius: 15px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
@@ -82,7 +82,20 @@
 - 👯 I’m looking to collaborate on web projects.
 - 💻 Skilled in full-stack development, focusing on modern web, mobile app and desktop applications.
 - 🚀 Passionate about creating optimized and user-friendly mobile app & software.
-- 💬 Ask me about ...
+<div align="center" style="background: #0d1117; padding: 20px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,255,0,0.2); margin-top: 30px;">
+  <h2 style="color: #39ff14;">💬 Ask Me About</h2>
+  <p style="color: #cccccc; font-size: 16px;">
+    🧠 I'm always excited to share knowledge about:
+  </p>
+  <ul style="list-style-type: none; padding: 0; color: #cccccc; font-size: 15px;">
+    <li>🌐 Web Development — <strong>HTML, CSS, JS, React, Spring Boot</strong></li>
+    <li>📱 Mobile Apps — <strong>Flutter, Android Studio</strong></li>
+    <li>🔧 Backend APIs — <strong>Java, Node.js, PHP, Oracle, MySQL</strong></li>
+    <li>🤖 IoT & Robotics — <strong>Arduino, Sensors, Servos</strong></li>
+    <li>🧩 Software Design — <strong>Clean Architecture, OOP</strong></li>
+  </ul>
+</div>
+
 
 
 <!--
