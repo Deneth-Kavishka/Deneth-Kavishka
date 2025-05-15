@@ -38,7 +38,13 @@
 
 ### 🌐 Connect with Me:
 <p align="center">
-<a href="https://www.linkedin.com/in/deneth-kavishka-338288284/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="border-radius: 15px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" /></a> <a href="https://x.com/Deneth_Kavish" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" style="border-radius: 15px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" /></a>
+<a href="https://www.linkedin.com/in/deneth-kavishka-338288284/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="24" height="24" style="border-radius: 15px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
+</a> 
+<a href="https://x.com/Deneth_Kavish" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="24" height="24" style="border-radius: 15px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
+</a>
+
 </p>
   <!--<a href="https://youtube.com/@virajwathsalag" target="_blank">
     <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" style="border-radius: 10px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" /> -->
@@ -51,9 +57,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,cs,c,dotnet,html,css,javascript,bootstrap,tailwind,react,typescript,express,java,python,laravel,arduino,mysql,mongodb,postgres" alt="Skills" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
+ <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle DB" width="30" height="30" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
+-->
 </p>
 
 
