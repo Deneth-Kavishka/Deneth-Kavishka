@@ -20,13 +20,11 @@
   <h3 style="color: Grey;">A passionate coding enthusiast, always eager to research, find, learn and develop across the full stack.</h3>
 </div>
 
-
-
-
 <p align="center" style="margin-top: 15px;">
   <a href="https://github.com/deneth-kavishka">
-    <img src="https://komarev.com/ghpvc/?username=deneth-kavishka&label=Profile%20Views&color=0e75b6&style=flat" alt="Deneth-Kavishka" />
+    <img src="https://komarev.com/ghpvc/?username=deneth-kavishka&label=Profile%20Views&color=39ff14&style=flat" alt="Deneth-Kavishka" />
   </a><br/>
+</p>
   <!--strong><a href="https://github.com/deneth-kavishka">Deneth-Kavishka</a></strong-->
 </p>
 
