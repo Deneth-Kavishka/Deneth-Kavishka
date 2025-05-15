@@ -37,12 +37,12 @@
 ---
 
 ### 🌐 Connect with Me:
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/deneth-kavishka-338288284/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="24" height="24" style="border-radius: 15px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="28" height="28" style="border-radius: 15px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
 </a> 
 <a href="https://x.com/Deneth_Kavish" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="24" height="24" style="border-radius: 15px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="28" height="28" style="border-radius: 15px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
 </a>
 
 </p>
