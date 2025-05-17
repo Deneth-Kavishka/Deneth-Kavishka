@@ -4,7 +4,7 @@
     <span align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&pause=750&color=FFFFFF&center=true&vCenter=true&width=735&lines=👋Hey!+I'm+Deneth+Kavishka" alt="👋Hey! I'm Deneth Kavishka">
       <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=5000&pause=750&color=00FFFF&center=true&vCenter=true&width=800&lines=COLLABORATING+TO+CREATE+WHAT+MATTERS..." alt="COLLABORATING TO CREATE WHAT MATTERS..." />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=5000&pause=750&color=00FFFF&center=true&vCenter=true&width=735&lines=COLLABORATING+TO+CREATE+WHAT+MATTERS..." alt="COLLABORATING TO CREATE WHAT MATTERS..." />
       </p>
     </span>
   </h1>
