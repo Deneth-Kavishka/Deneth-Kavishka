@@ -2,13 +2,12 @@
 <div align="center" style="background: linear-gradient(to right, #0e75b6, #2a9df4); padding: 30px; border-radius: 15px;">
   <h1 align="center" style="color: white;">
     <span align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5000&pause=750&color=FFFFFF&center=true&vCenter=true&width=735&lines=👋Hey!+I'm+Deneth+Kavishka" alt="👋Hey! I'm Deneth Kavishka">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=735&lines=👋Hey!+I'm+Deneth+Kavishka" alt="👋Hey! I'm Deneth Kavishka">
       <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=5000&pause=750&color=00FFFF&center=true&vCenter=true&width=735&lines=COLLABORATING+TO+CREATE+WHAT+MATTERS..." alt="COLLABORATING TO CREATE WHAT MATTERS..." />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=COLLABORATING+TO+CREATE+WHAT+MATTERS..." alt="COLLABORATING TO CREATE WHAT MATTERS..." />
       </p>
     </span>
   </h1>
-
   <!-- Hacker Animation with Hoodie from LottieFiles 
   <div style="margin: 20px 0;">
     <iframe src="https://lottie.host/embed/8cc98a92-7b95-4ebc-8899-62197400555d/1VJjE0kKYt.json" 
