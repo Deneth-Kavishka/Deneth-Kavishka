@@ -3,6 +3,7 @@
   <h1 align="center" style="color: white;">
     <span align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=735&lines=👋Hey!+I'm+Deneth+Kavishka" alt="👋Hey! I'm Deneth Kavishka">
+      <h3 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture></h3>
       <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=COLLABORATING+TO+CREATE+WHAT+MATTERS..." alt="COLLABORATING TO CREATE WHAT MATTERS..." />
       </p>
@@ -31,13 +32,25 @@
 
 ---
 
-### 📊 GitHub Stats:
+<div align="center">
+
+### My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deneth-kavishka&show_icons=true&theme=blueberry&hide_title=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deneth-kavishka&layout=compact&theme=blueberry) <br>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deneth-kavishka&theme=blueberry)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deneth-kavishka&theme=radical" alt="GitHub streak stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
+  <img src="https://komarev.com/ghpvc/?username=deneth-kavishka&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+<!--
+### 📊 GitHub Stats:-->
+
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deneth-kavishka&show_icons=true&locale=en&theme=radical" alt="GitHub stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deneth-kavishka&layout=compact&theme=radical" alt="Most Used Languages" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deneth-kavishka&theme=radical" alt="GitHub streak stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
+</p>-->
 
 ---
 
@@ -64,10 +77,9 @@
 
 ### 🛠️ Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,cs,c,dotnet,html,css,javascript,bootstrap,tailwind,nodejs,react,typescript,express,java,python,laravel,kotlin,flutter,arduino,mysql,mongodb,postgres" alt="Skills" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,github,git,postman,c,cs,dotnet,html,css,javascript,bootstrap,tailwind,nodejs,react,typescript,express,java,spring,python,laravel,linux,kotlin,flutter,arduino,mysql,mongodb,postgres,sqlite" alt="Skills" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
   
- <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
-  
+ <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle DB" width="30" height="30" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
 -->
 </p>
