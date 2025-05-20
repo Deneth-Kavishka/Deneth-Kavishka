@@ -40,19 +40,19 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deneth-kavishka&theme=blueberry)
 
 <!--
-### 📊 GitHub Stats: 🛠️ Languages and Tools:-->
+### 📊 GitHub Stats: -->
 
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deneth-kavishka&show_icons=true&locale=en&theme=radical" alt="GitHub stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deneth-kavishka&layout=compact&theme=radical" alt="Most Used Languages" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deneth-kavishka&theme=radical" alt="GitHub streak stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
-</p> 🌐 Connect with Me:-->
+</p> -->
 
 
 ---
 
 ### Connect with Me:
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/deneth-kavishka-338288284/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a> 
 <a href="https://x.com/Deneth_kavish" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>
@@ -86,7 +86,7 @@
 
 ---
 
-### 🔥 Highlights:
+### Highlights:
 
 - 🌱 Constantly learning and improving.
 - 👯 I’m looking to collaborate on web projects.
@@ -113,4 +113,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+🌐 Connect with Me: 🛠️ Languages and Tools: 🔥 Highlights:
 -->
