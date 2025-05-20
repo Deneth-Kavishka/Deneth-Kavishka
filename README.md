@@ -75,7 +75,7 @@
 
 ### Technologies and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,github,git,postman,c,cs,dotnet,html,css,javascript,bootstrap,tailwind,nodejs,react,typescript,express,java,spring,python,laravel,linux,kotlin,flutter,arduino,mysql,mongodb,postgres,sqlite" alt="Skills" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,github,git,postman,c,cs,dotnet,html,css,javascript,bootstrap,tailwind,nodejs,react,typescript,express,java,spring,python,laravel,linux,kotlin,flutter,arduino,mysql,sql,sqlite,oracle,mongodb,postgres" alt="Skills" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
   
  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle DB" width="30" height="30" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
