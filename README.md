@@ -52,7 +52,7 @@
 ---
 
 ### Connect with Me:
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/deneth-kavishka-338288284/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a> 
 <a href="https://x.com/Deneth_kavish" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>
