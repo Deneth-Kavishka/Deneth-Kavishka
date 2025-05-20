@@ -20,6 +20,12 @@
   <h3 style="color: Grey;">A passionate coding enthusiast, always eager to research, find, learn and develop across the full stack.</h3>
 </div>
 
+<p align="center" style="margin-top: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <a href="https://github.com/deneth-kavishka" style="text-decoration: none;">
+  <img src="https://komarev.com/ghpvc/?username=deneth-kavishka&label=Profile%20Views&color=0e75b6&style=flat" alt="Deneth-Kavishka" />
+  </a>
+</p>
+
   <!--strong><a href="https://github.com/deneth-kavishka">Deneth-Kavishka</a></strong-->
 
 
@@ -33,11 +39,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deneth-kavishka&layout=compact&theme=blueberry) <br>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deneth-kavishka&theme=blueberry)
 
-<p align="center" style="margin-top: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <a href="https://github.com/deneth-kavishka" style="text-decoration: none;">
-  <img src="https://komarev.com/ghpvc/?username=deneth-kavishka&label=Profile%20Views&color=0e75b6&style=flat" alt="Deneth-Kavishka" />
-  </a>
-</p>
 <!--
 ### 📊 GitHub Stats: 🛠️ Languages and Tools:-->
 
@@ -46,11 +47,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deneth-kavishka&layout=compact&theme=radical" alt="Most Used Languages" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deneth-kavishka&theme=radical" alt="GitHub streak stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
 </p> 🌐 Connect with Me:-->
+</div>
 
 ---
 
 ### Connect with Me:
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/deneth-kavishka-338288284/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a> 
 <a href="https://x.com/Deneth_kavish" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>
@@ -67,6 +69,7 @@
     <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" style="border-radius: 10px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" /> 
   </a>
 </p>-->
+</div>
 
 ---
 
@@ -78,6 +81,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle DB" width="30" height="30" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
 -->
 </p>
+</div>
 
 
 ---
