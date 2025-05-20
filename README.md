@@ -3,10 +3,10 @@
   <h1 align="center" style="color: white;">
     <span align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=735&lines=👋Hey!+I'm+Deneth+Kavishka" alt="👋Hey! I'm Deneth Kavishka">
-      <h3 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture></h3>
       <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=COLLABORATING+TO+CREATE+WHAT+MATTERS..." alt="COLLABORATING TO CREATE WHAT MATTERS..." />
       </p>
+       <h3 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture></h3>
     </span>
   </h1>
   <!-- Hacker Animation with Hoodie from LottieFiles 
@@ -20,15 +20,8 @@
   <h3 style="color: Grey;">A passionate coding enthusiast, always eager to research, find, learn and develop across the full stack.</h3>
 </div>
 
-<p align="center" style="margin-top: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <a href="https://github.com/deneth-kavishka" style="text-decoration: none;">
-  <img src="https://komarev.com/ghpvc/?username=deneth-kavishka&label=Profile%20Views&color=0e75b6&style=flat" alt="Deneth-Kavishka" />
-  </a>
-</p>
-
-
   <!--strong><a href="https://github.com/deneth-kavishka">Deneth-Kavishka</a></strong-->
-</p>
+
 
 ---
 
@@ -40,21 +33,23 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deneth-kavishka&layout=compact&theme=blueberry) <br>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deneth-kavishka&theme=blueberry)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deneth-kavishka&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center" style="margin-top: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <a href="https://github.com/deneth-kavishka" style="text-decoration: none;">
+  <img src="https://komarev.com/ghpvc/?username=deneth-kavishka&label=Profile%20Views&color=0e75b6&style=flat" alt="Deneth-Kavishka" />
+  </a>
 </p>
 <!--
-### 📊 GitHub Stats:-->
+### 📊 GitHub Stats: 🛠️ Languages and Tools:-->
 
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deneth-kavishka&show_icons=true&locale=en&theme=radical" alt="GitHub stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deneth-kavishka&layout=compact&theme=radical" alt="Most Used Languages" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deneth-kavishka&theme=radical" alt="GitHub streak stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
-</p>-->
+</p> 🌐 Connect with Me:-->
 
 ---
 
-### 🌐 Connect with Me:
+### Connect with Me:
 <p align="left">
 
 <a href="https://www.linkedin.com/in/deneth-kavishka-338288284/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a> 
@@ -67,15 +62,15 @@
   <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="28" height="28" style="border-radius: 15px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
 </a>-->
 
-</p>
-  <!--<a href="https://youtube.com/@techverse" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" style="border-radius: 10px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" /> -->
+ <!--</p>
+ <a href="https://youtube.com/@techverse" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" style="border-radius: 10px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" /> 
   </a>
-</p>
+</p>-->
 
 ---
 
-### 🛠️ Languages and Tools:
+### Technologies and Tools:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,github,git,postman,c,cs,dotnet,html,css,javascript,bootstrap,tailwind,nodejs,react,typescript,express,java,spring,python,laravel,linux,kotlin,flutter,arduino,mysql,mongodb,postgres,sqlite" alt="Skills" style="margin: 5px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
   
