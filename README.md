@@ -87,7 +87,6 @@
 ---
 
 ### Highlights:
-
 <img width="35%"  align="right" alt="Github" src="https://github.com/sachithasamadhib/sachithasamadhib/blob/main/Images/Right_Side.gif" />
 
 <br>
