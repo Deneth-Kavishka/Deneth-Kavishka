@@ -88,6 +88,10 @@
 
 ### Highlights:
 
+<img width="35%"  align="right" alt="Github" src="https://github.com/sachithasamadhib/sachithasamadhib/blob/main/Images/Right_Side.gif" />
+
+<br>
+
 - 🌱 Constantly learning and improving.
 - 👯 I’m looking to collaborate on web projects.
 - 💻 Skilled in full-stack development, focusing on modern web, mobile app and desktop applications.
