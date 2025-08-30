@@ -55,9 +55,9 @@
 - 🚀 Passionate about creating optimized and user-friendly mobile app & software.
 - 🧠 I'm always excited to talk about:
   - 🌐 Web Development - HTML, CSS, JavaScript, React, Spring Boot  
-  - 📱 Mobile App Development - Flutter, Android Studio  
+  - 📱 Mobile App Development - Kotline, Flutter, ReactNative, Android Studio  
   - 🔧 Backend APIs    - Java, Node.js, PHP, Oracle, MySQL  
-  - 🤖 IoT & Robotics  - Arduino, Sensors, Servo Control  
+  - 🤖 IoT & Robotics  - Arduino, Sensors, Servo Control, esp
   - 🧩 Software Design - Clean Architecture, OOP, Full Stack Patterns  
 
 
