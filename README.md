@@ -24,8 +24,8 @@
 
 ### My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deneth-kavishka&show_icons=true&theme=blueberry&hide_title=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deneth-kavishka&layout=compact&theme=blueberry) <br>
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deneth-kavishka&show_icons=true&theme=blueberry&hide_title=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deneth-kavishka&layout=compact&theme=blueberry) <br> -->
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deneth-kavishka&theme=blueberry)
 
 ---
